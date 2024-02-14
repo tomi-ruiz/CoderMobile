@@ -1,0 +1,661 @@
+[
+  {
+    "id": 1,
+    "title": "ZAPATILLAS AIR FORCE 1 LOW COTM NIKE",
+    "description": "",
+    "price": 549,
+    "discountPercentage": 12.96,
+    "rating": 4.69,
+    "stock": 94,
+    "brand": "Nike",
+    "category": "Zapatillas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/65b83b8f06edd-647351-500x500.jpg ",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/65b83b8f06edd-647351-500x500.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "BOTAS DUNK HI RETRO NIKE",
+    "description": "",
+    "price": 899,
+    "discountPercentage": 17.94,
+    "rating": 4.44,
+    "stock": 34,
+    "brand": "Nike",
+    "category": "Zapatillas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/65716c8a06313-603144-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/65716c8a06313-603144-500x500.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "ZAPATILLAS AIR TRAINER 1 RMX NIKE",
+    "description": "",
+    "price": 1249,
+    "discountPercentage": 15.46,
+    "rating": 4.09,
+    "stock": 36,
+    "brand": "Nike",
+    "category": "Zapatillas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/65c23a98d68cf-609208-500x500.jpg",
+    "images": ["https://www.digitalsport.com.ar/files/products/65c23a98d68cf-609208-500x500.jpg"]
+  },
+  {
+    "id": 4,
+    "title": "ZAPATILLAS OAKMONT TR FILA",
+    "description": "OPPO F19 is officially announced on April 2021.",
+    "price": 280,
+    "discountPercentage": 17.91,
+    "rating": 4.3,
+    "stock": 123,
+    "brand": "FILA",
+    "category": "Zapatillas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/64ef8db453966-583748-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/64ef8db453966-583748-500x500.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "ZAPATILLAS PALERMO F.C PUMA",
+    "description": "",
+    "price": 499,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Puma",
+    "category": "Zapatillas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/658443540a6cc-636422-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/658443540a6cc-636422-500x500.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "BOTAS CHUCK 70 HI CONVERSE",
+    "description": "",
+    "price": 1749,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "CONVERSE",
+    "category": "Botas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/64680baaafb0a-578951-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/64680baaafb0a-578951-500x500.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "BOTAS LUNAR FORCE 1 DUCKBOOT NIKE",
+    "description": "",
+    "price": 1499,
+    "discountPercentage": 4.15,
+    "rating": 4.25,
+    "stock": 50,
+    "brand": "Nike",
+    "category": "Botas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/64e5208fba499-412542-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/64e5208fba499-412542-500x500.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "BOTAS JEREMY SCOTT FORUM 84 HI ADIDAS",
+    "description": "",
+    "price": 1499,
+    "discountPercentage": 10.23,
+    "rating": 4.43,
+    "stock": 68,
+    "brand": "Adidas",
+    "category": "Botas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/642ed2301b577-617508-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/642ed2301b577-617508-500x500.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "BOTAS AIR JORDAN 2 X J BALVIN RETRO SP NIKE",
+    "description": "",
+    "price": 1099,
+    "discountPercentage": 11.83,
+    "rating": 4.54,
+    "stock": 96,
+    "brand": "Jordan ",
+    "category": "Botas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/643d5006acd8a-618183-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/643d5006acd8a-618183-500x500.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "BOTAS RUN STAR MOTION CONVERSE",
+    "description": "",
+    "price": 1099,
+    "discountPercentage": 6.18,
+    "rating": 4.43,
+    "stock": 89,
+    "brand": "CONVERSE",
+    "category": "Botas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/616da5eb2ada9-544179-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/616da5eb2ada9-544179-500x500.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "SANDALIAS ADILETTE ALWAYS ON ADIDAS",
+    "description": "",
+    "price": 13,
+    "discountPercentage": 8.4,
+    "rating": 4.26,
+    "stock": 65,
+    "brand": "Adidas",
+    "category": "Sandalias",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/64ee86fa099f7-591885-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/64ee86fa099f7-591885-500x500.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "CHINELAS CROCO SLIDE LACOSTE",
+    "description": "",
+    "price": 40,
+    "discountPercentage": 15.66,
+    "rating": 4,
+    "stock": 52,
+    "brand": "Lacoste",
+    "category": "Sandalias",
+    "thumbnail": "hhttps://www.digitalsport.com.ar/files/products/6515e8006982f-632572-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/6515e8006982f-632572-500x500.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "CHINELAS CROCO SLIDE LACOSTE",
+    "description": "",
+    "price": 13,
+    "discountPercentage": 8.14,
+    "rating": 4.59,
+    "stock": 61,
+    "brand": "Lacoste",
+    "category": "Sandalias",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/6515e807bb81e-632575-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/6515e807bb81e-632575-500x500.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "SANDALIAS ADILETTE ALWAYS ON ADIDAS",
+    "description": "",
+    "price": 120,
+    "discountPercentage": 15.6,
+    "rating": 4.21,
+    "stock": 114,
+    "brand": "Lacoste",
+    "category": "Sandalias",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/64ee86f449b3d-591878-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/64ee86f449b3d-591878-500x500.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "GORRA WOLL FLEXFIT DENIM KANGOL",
+    "description": "",
+    "price": 30,
+    "discountPercentage": 10.99,
+    "rating": 4.7,
+    "stock": 105,
+    "brand": "Kangol",
+    "category": "Gorras",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/65376bf2eafc8-631092-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/65376bf2eafc8-631092-500x500.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "GORRA FAST TRACK PUMA",
+    "description": "",
+    "price": 19,
+    "discountPercentage": 13.31,
+    "rating": 4.83,
+    "stock": 110,
+    "brand": "Puma",
+    "category": "Gorras",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/6532e808be84b-634967-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/6532e808be84b-634967-500x500.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "GORRO BEANIE BASEBALL ON THE HUNT GOORIN",
+    "description": "",
+    "price": 12,
+    "discountPercentage": 4.09,
+    "rating": 4.52,
+    "stock": 78,
+    "brand": "Goorin",
+    "category": "Gorras",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/624eed4d28baa-586365-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/624eed4d28baa-586365-500x500.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "GORRA DALLAS MAVERICK NEW ERA",
+    "description": "",
+    "price": 40,
+    "discountPercentage": 13.1,
+    "rating": 4.56,
+    "stock": 88,
+    "brand": "New Era",
+    "category": "Gorras",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/63168cf3ac036-587383-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/63168cf3ac036-587383-500x500.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "GORRO PILUSO ADICOLOR 70S ADIDAS",
+    "description": "",
+    "price": 46,
+    "discountPercentage": 10.68,
+    "rating": 4.42,
+    "stock": 54,
+    "brand": "Adidas",
+    "category": "Gorras",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/6463b61104cb5-617748-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/6463b61104cb5-617748-500x500.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "FPANTALON TRACK SINOPLE LACOSTE",
+    "description": "",
+    "price": 70,
+    "discountPercentage": 16.99,
+    "rating": 4.06,
+    "stock": 140,
+    "brand": "Lacoste",
+    "category": "Pantalones",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/656e68f390a42-641947-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/656e68f390a42-641947-500x500.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "PANTALON NRG STUSSY NIKE",
+    "description": "",
+    "price": 20,
+    "discountPercentage": 4.81,
+    "rating": 4.44,
+    "stock": 133,
+    "brand": "Nike",
+    "category": "Pantalones",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/654bf61820cfa-636904-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/654bf61820cfa-636904-500x500.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "PANTALON NRG SOLO SWOOSH NIKE",
+    "description": "",
+    "price": 14,
+    "discountPercentage": 15.58,
+    "rating": 4.57,
+    "stock": 146,
+    "brand": "Nike",
+    "category": "Pantalones",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/643ff8e532808-618208-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/643ff8e532808-618208-500x500.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "PANTALON UPTOWN PUMA",
+    "description": "",
+    "price": 14,
+    "discountPercentage": 8.04,
+    "rating": 4.85,
+    "stock": 26,
+    "brand": "Puma",
+    "category": "Pantalones",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/6564c23ecfdea-594918-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/6564c23ecfdea-594918-500x500.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "PANTALON LAVA VULK",
+    "description": "",
+    "price": 46,
+    "discountPercentage": 16.8,
+    "rating": 4.94,
+    "stock": 113,
+    "brand": "Vulk",
+    "category": "Pantalones",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/65bcf3c54980b-615454-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/65bcf3c54980b-615454-500x500.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "SHORT DRI-FIT FLEX NIKE",
+    "description": "",
+    "price": 70,
+    "discountPercentage": 13.58,
+    "rating": 4.87,
+    "stock": 47,
+    "brand": "Nike",
+    "category": "Shorts",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/641d4943055f5-570739-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/641d4943055f5-570739-500x500.jpg"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "SHORT BAÑO HOLIDAY LACOSTE",
+    "description": "",
+    "price": 41,
+    "discountPercentage": 17.86,
+    "rating": 4.08,
+    "stock": 131,
+    "brand": "Lacoste",
+    "category": "Shorts",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/659ddd7899305-643601-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/659ddd7899305-643601-500x500.jpg"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "SHORT NKB PERFORMANCE SWOOSH KIDS NIKE",
+    "description": "",
+    "price": 51,
+    "discountPercentage": 15.58,
+    "rating": 4.41,
+    "stock": 17,
+    "brand": "Nike",
+    "category": "Shorts",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/6566e02670684-638059-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/6566e02670684-638059-500x500.jpg"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "SHORT BAÑO KEETON VULK",
+    "description": "",
+    "price": 20,
+    "discountPercentage": 16.49,
+    "rating": 4.82,
+    "stock": 54,
+    "brand": "Vulk",
+    "category": "Shorts",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/654525508e93e-626792-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/654525508e93e-626792-500x500.jpg"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "SHORT RUN FAVORITE VELOCITY 7 PUMA",
+    "description": "",
+    "price": 60,
+    "discountPercentage": 15.34,
+    "rating": 4.44,
+    "stock": 7,
+    "brand": "Puma",
+    "category": "Shorts",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/657ce69dd4693-625473-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/657ce69dd4693-625473-500x500.jpg"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "REMERA NRG NOCTA NIKE",
+    "description": "",
+    "price": 30,
+    "discountPercentage": 2.92,
+    "rating": 4.92,
+    "stock": 54,
+    "brand": "Nike",
+    "category": "Remeras",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/6584d00935fb6-643641-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/6584d00935fb6-643641-500x500.jpg"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "REMERA BETTER CLASSICS PUMA",
+    "description": "",
+    "price": 40,
+    "discountPercentage": 17,
+    "rating": 4.16,
+    "stock": 140,
+    "brand": "Puma",
+    "category": "Remeras",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/6566e00b03d14-607627-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/6566e00b03d14-607627-500x500.jpg"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "REMERA ACG NIKE",
+    "description": "",
+    "price": 50,
+    "discountPercentage": 15.59,
+    "rating": 4.74,
+    "stock": 30,
+    "brand": "Nike",
+    "category": "Remeras" ,
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/65024bffdd5c9-601711-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/65024bffdd5c9-601711-500x500.jpg"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "REMERA ENTRENAMIENTO AAT FILA",
+    "description": "",
+    "price": 700,
+    "discountPercentage": 17,
+    "rating": 4.31,
+    "stock": 106,
+    "brand": "FILA",
+    "category": "Remeras",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/65c56ac10f0aa-638420-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/65c56ac10f0aa-638420-500x500.jpg"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "REMERA BLOOM AOP ADIDAS",
+    "description": "",
+    "price": 50,
+    "discountPercentage": 4,
+    "rating": 4.01,
+    "stock": 136,
+    "brand": "Adidas",
+    "category": "Remeras",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/653c4e7587969-635028-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/653c4e7587969-635028-500x500.jpg"  
+    ]
+  },
+  {
+    "id": 35,
+    "title": "CAMISA VILLE MANCHES LACOSTE",
+    "description":"",
+    "price": 41,
+    "discountPercentage": 7.98,
+    "rating": 4.06,
+    "stock": 68,
+    "brand": "Lacoste",
+    "category": "Camisas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/654588f4b9941-636568-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/654588f4b9941-636568-500x500.jpg"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "CAMISA HABANA STONE VOLCOM",
+    "description": "",
+    "price": 90,
+    "discountPercentage": 10.89,
+    "rating": 4.26,
+    "stock": 39,
+    "brand": "Volcom",
+    "category": "Camisas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/65a6ef4ad0279-629015-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/65a6ef4ad0279-629015-500x500.jpg"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "CAMISA HOODIE VOLCOM",
+    "description": "",
+    "price": 50,
+    "discountPercentage": 12.05,
+    "rating": 4.52,
+    "stock": 107,
+    "brand": "Volcom",
+    "category": "Camisas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/65c56b65a22ba-647703-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/65c56b65a22ba-647703-500x500.jpg"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "CAMISA OVERSIZE VOLCOM",
+    "description": "",
+    "price": 100,
+    "discountPercentage": 11.12,
+    "rating": 4.8,
+    "stock": 20,
+    "brand": "Volcom",
+    "category": "Camisas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/65c56b6f57c61-645876-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/65c56b6f57c61-645876-500x500.jpg"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "CAMISA CIRCLE ONEILL",
+    "description": "",
+    "price": 600,
+    "discountPercentage": 17.2,
+    "rating": 4.55,
+    "stock": 55,
+    "brand": "Oneil",
+    "category": "Camisas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/65683231c774d-630529-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/65683231c774d-630529-500x500.jpg"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "CHOMBA SAN LORENZO NIKE",
+    "description": "",
+    "price": 57,
+    "discountPercentage": 13.39,
+    "rating": 4.91,
+    "stock": 84,
+    "brand": "Nike",
+    "category": "Chombas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/655fbc441fc24-634974-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/655fbc441fc24-634974-500x500.jpg"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "CHOMBA RACING CLUB KAPPA",
+    "description": "",
+    "price": 55,
+    "discountPercentage": 15.05,
+    "rating": 4.65,
+    "stock": 21,
+    "brand": "Kappa",
+    "category": "Chombas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/652f2063c17a0-634306-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/652f2063c17a0-634306-500x500.jpg"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "CHOMBA EGO FLOW VOLCOM",
+    "description": "",
+    "price": 80,
+    "discountPercentage": 15.37,
+    "rating": 4.05,
+    "stock": 148,
+    "brand": "Volcom",
+    "category": "Chombas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/65540a4d5cd80-630767-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/65540a4d5cd80-630767-500x500.jpg"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "CHOMBA STD UNDERT RIP CURL",
+    "description": "",
+    "price": 600,
+    "discountPercentage": 15.55,
+    "rating": 4.31,
+    "stock": 150,
+    "brand": "Rip Curl",
+    "category": "Chombas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/64db239a57c03-630984-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/64db239a57c03-630984-500x500.jpg"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "CHOMBA UNDERTOWN RIP CURL",
+    "description": "",
+    "price": 79,
+    "discountPercentage": 16.88,
+    "rating": 4.03,
+    "stock": 2,
+    "brand": "Rip Curl",
+    "category": "Chombas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/65b446e7952ae-647486-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/65b446e7952ae-647486-500x500.jpg"
+    ]
+  },
+  {}
+]
