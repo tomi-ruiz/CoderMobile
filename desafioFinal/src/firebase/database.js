@@ -1,0 +1,1 @@
+export const base_url = "https://coder-mobile-default-rtdb.firebaseio.com/"

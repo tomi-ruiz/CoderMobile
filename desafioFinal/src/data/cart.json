@@ -1,0 +1,34 @@
+[
+  {
+    "id": 43,
+    "title": "CHOMBA STD UNDERT RIP CURL",
+    "description": "",
+    "price": 600,
+    "discountPercentage": 15.55,
+    "rating": 4.31,
+    "stock": 150,
+    "brand": "Rip Curl",
+    "category": "Chombas",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/64db239a57c03-630984-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/64db239a57c03-630984-500x500.jpg"
+    ],
+    "quantity": 2
+  },
+  {
+    "id": 16,
+    "title": "GORRA FAST TRACK PUMA",
+    "description": "",
+    "price": 19,
+    "discountPercentage": 13.31,
+    "rating": 4.83,
+    "stock": 110,
+    "brand": "Puma",
+    "category": "Gorras",
+    "thumbnail": "https://www.digitalsport.com.ar/files/products/6532e808be84b-634967-500x500.jpg",
+    "images": [
+      "https://www.digitalsport.com.ar/files/products/6532e808be84b-634967-500x500.jpg"
+    ],
+    "quantity": 1
+  }
+]
